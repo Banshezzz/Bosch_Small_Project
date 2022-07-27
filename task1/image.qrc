@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HeaderLine.qml</file>
+        <file>image/clock.png</file>
+        <file>WelcomeScreen.qml</file>
+        <file>main.qml</file>
+        <file>MenuScreen.qml</file>
+        <file>ProgramScreen.qml</file>
+        <file>image/back.png</file>
+        <file>image/exit.png</file>
+        <file>image/more.png</file>
+        <file>image/no_wifi.png</file>
+        <file>image/wifi.png</file>
+        <file>StatusBar.qml</file>
+        <file>image/menu1.jpg</file>
+        <file>image/menu2.jpg</file>
+        <file>image/menu3.jpg</file>
+        <file>image/pic2.jpg</file>
+    </qresource>
+</RCC>
